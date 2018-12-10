@@ -1,0 +1,2 @@
+# Group-Coursework-Website-Design-and-Development
+Work in groups of 4 students (all group members should be from the same Web Design and Development tutorial group). Prepare a Web site about a subject of your choice (please see at the bottom of the page for a list of possible subjects). You have to ensure that your site complies with the Janet regulations on publications of web pages (see under Blackboard link to Assessment Details).
